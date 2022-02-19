@@ -14,7 +14,7 @@ I am particularly interested in Data Analytics but would also like to explore Cl
 * HTML
 * CSS
 * Basic Java
-* R
+* Basic R
 * Data Visualization in Python
 
 
