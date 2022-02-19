@@ -1,16 +1,35 @@
-### Hi there 👋
+### Welcome to my profile!
 
-<!--
-**Janhavi-2001/Janhavi-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Janhavi Pimplikar, a current third-year computer engineering undergraduate at Pimpri-Chinchwad College of Engineering Pune, India. Thank you for checking out my GitHub profile and do 
+reach out to me if you have mutual interests in tech!
 
-Here are some ideas to get you started:
+**🤓 Tech Interests** 
+\
+I am particularly interested in Data Analytics but would also like to explore Cloud Computing and Data Engineering in the future.
+\
+\
+**🛠️ Skills** 
+* C++
+* Python
+* MySQL
+* HTML
+* CSS
+* Basic Java
+* R
+* Data Visualization in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+**🖌️ Hobbies**
+\
+I enjoy reading, writing and exploring different languages!
+\
+\
+**✨ Fun Fact About Me**
+\
+私は 日本語 を 習っています．今年　日本語能力試験　の　N3　レベル　を　受ける。
+
+**✉️ Connect**
+\
+Reach out to me via
+[**LinkedIn**](https://www.linkedin.com/in/janhavi-pimplikar-0087ab1ba/)
