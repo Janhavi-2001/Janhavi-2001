@@ -4,8 +4,7 @@ I'm Janhavi Pimplikar, a current third-year computer engineering undergraduate a
 
 **🤓 Tech Interests** 
 \
-I am particularly interested in Data Analytics but would also like to explore Cloud Computing and Data Engineering in the future.
-\
+I am particularly interested in Data Analytics and Visualization. But I'd also like to explore other fields in computer technology!
 \
 **🛠️ Skills** 
 * C++
