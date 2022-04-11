@@ -6,6 +6,7 @@ I'm Janhavi Pimplikar, a current third-year computer engineering undergraduate a
 \
 I am particularly interested in Data Analytics and Visualization. But I'd also like to explore other fields in computer technology!
 \
+\
 **🛠️ Skills** 
 * C++
 * Python
