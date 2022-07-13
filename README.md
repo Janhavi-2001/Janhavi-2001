@@ -10,10 +10,10 @@ I am particularly interested in Data Analytics and Visualization. But I'd also l
 **🛠️ Skills** 
 * C++
 * Python
-* MySQL
+* SQL
 * HTML
 * CSS
-* Basic Java
+* Java
 * Basic R
 * Data Visualization in Python
 
@@ -21,7 +21,7 @@ I am particularly interested in Data Analytics and Visualization. But I'd also l
 
 **🖌️ Hobbies**
 \
-I enjoy reading, writing and exploring different languages!
+I enjoy reading, writing, calligraphy and exploring different languages!
 \
 \
 **✨ Fun Fact About Me**
