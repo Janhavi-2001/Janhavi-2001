@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I'm Janhavi Pimplikar, a current third-year computer engineering undergraduate at Pimpri-Chinchwad College of Engineering Pune, India. Thank you for checking out my GitHub profile and do reach out to me if you have mutual interests in tech!
+I'm Janhavi Pimplikar, a final year computer engineering undergraduate at Pimpri-Chinchwad College of Engineering Pune, India. Thank you for checking out my GitHub profile and do reach out to me if you have mutual interests in tech!
 
 **🤓 Tech Interests** 
 \
