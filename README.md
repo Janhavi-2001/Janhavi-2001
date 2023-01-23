@@ -26,7 +26,7 @@ I enjoy reading, writing, calligraphy and exploring different languages!
 \
 **✨ Fun Fact About Me**
 \
-私は 日本語 を 習っています．今年は　日本語能力試験　の　N3　レベル試験　を　受ける。
+私は 日本語 を 習っています．日本語能力試験　の　N3　レベル試験　を 合格しました。
 
 **✉️ Connect**
 \
