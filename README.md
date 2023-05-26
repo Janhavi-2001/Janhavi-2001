@@ -4,29 +4,24 @@ I'm Janhavi Pimplikar, a final year computer engineering undergraduate at Pimpri
 
 **🤓 Tech Interests** 
 \
-I am particularly interested in Data Analytics and Visualization. But I'd also like to explore other fields in computer technology!
+I am particularly interested in Data Analytics, Data Visualization and Deep Learning.
 \
 \
 **🛠️ Skills** 
 * C++
 * Python
+* Java
 * SQL
 * HTML
 * CSS
-* Java
-* Basic R
-* Data Visualization in Python
+* Power BI
+* R
 
-
-
-**🖌️ Hobbies**
+**✨ Fun Fact**
 \
-I enjoy reading, writing, calligraphy and exploring different languages!
+私は 日本語 を 習っています．日本語能力試験　の　N3　レベル試験　を 合格しました.
 \
-\
-**✨ Fun Fact About Me**
-\
-私は 日本語 を 習っています．日本語能力試験　の　N3　レベル試験　を 合格しました。
+(I'm learning Japanese and have cleared the JLPT N3.)
 
 **✉️ Connect**
 \
