@@ -1,8 +1,4 @@
 ## Hey, it's Janhavi here! 🙋🏻‍♀️
-\
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 I'm a computer engineering undergraduate at Pimpri-Chinchwad College of Engineering Pune, India. Welcome to my GitHub profile and do reach out if you have mutual interests in tech!
 
 ### **🤓 Tech Interests** 
@@ -20,4 +16,10 @@ My interests include Data Analytics, Data Visualization and Deep Learning.
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### **✨ Fun Fact**
-I'm learning Japanese and have cleared the JLPT N3 :)
+I'm learning Japanese and aiming for the JLPT N2.
+頑張りましょう！ :)
+
+### **🫱🏼‍🫲🏼 Connect**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpimplikar26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavi-pimplikar-0087ab1ba/?originalSubdomain=in)
+
