@@ -1,7 +1,7 @@
 ## Hey, it's Janhavi here! 🙋🏻‍♀️
 I'm a computer engineering undergraduate at Pimpri-Chinchwad College of Engineering Pune, India. Welcome to my GitHub profile and do reach out if you have mutual interests in tech!
 
-### **🤓 Tech Interests** 
+### **🤓 Interests** 
 My interests include Data Analytics, Data Visualization and Deep Learning.
 
 ### **🛠️ Skills** 
