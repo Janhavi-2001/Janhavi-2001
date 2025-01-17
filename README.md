@@ -1,5 +1,5 @@
 ## Hey, it's Janhavi here! 🙋🏻‍♀️
-I'm a software engineering graduate student from Arizona State University. Welcome to my GitHub profile and do reach out if you have mutual interests in tech!
+I'm a software engineering graduate student at Arizona State University. Welcome to my GitHub profile and do reach out if you have mutual interests in tech!
 
 ### **🛠️ Skills** 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
