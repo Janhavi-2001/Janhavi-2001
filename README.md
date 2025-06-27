@@ -1,7 +1,6 @@
 
     
-# ![typewriter](https://github.com/user-attachments/assets/bdac10d3-0cea-4cfb-b76a-94883cbd707c)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=3000&color=FF5F1F&vCenter=true&random=true&width=900&height=100&lines=locale+%7B++en%3A+%22Welcome!%22++%7D;locale+%7B++jp%3A+%22%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!%22++%7D;locale+%7B++hi%3A+%22%E0%A4%86%E0%A4%AA%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4+%E0%A4%B9%E0%A5%88!%22++%7D;locale+%7B++de%3A+%22Willkommen!%22++%7D;locale+%7B++zh%3A+%22%E6%AC%A2%E8%BF%8E!%22++%7D)](https://git.io/typing-svg)
 
 ### ![](https://komarev.com/ghpvc/?username=Janhavi-2001&color=brightgreen&style=flat)
 ### **❓About Me**
