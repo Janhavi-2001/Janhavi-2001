@@ -1,24 +1,32 @@
-## Hey, it's Janhavi here! 🙋🏻‍♀️
-Welcome to my GitHub profile and do reach out if you have mutual interests in tech!
+
+    
+# ![typewriter](https://github.com/user-attachments/assets/bdac10d3-0cea-4cfb-b76a-94883cbd707c)
+
+
+### ![](https://komarev.com/ghpvc/?username=Janhavi-2001&color=brightgreen&style=flat)
+### **❓About Me**
+
+🎓 I'm a software engineering graduate student at Arizona State University
+\
+👩🏽‍💻I'm currently honing my skills in React and Java full-stack development
+\
+🌐 I'm interested in software localization (l10n) and internationalization (i18n) techniques and frameworks
+<br>
 
 ### **🛠️ Skills** 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,py,php,html,css,js,bootstrap,react,spring,laravel,mysql,sqlite,tensorflow,git,bitbucket,postman&perline=20&theme=dark)](https://skillicons.dev)
+<br>
 
 ### **✨ Fun Fact**
 I'm learning Japanese and aiming for the JLPT N2.
 頑張りましょう！ :)
+<br>
 
-### **🫱🏼‍🫲🏼 Connect**
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpimplikar26@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavi-pimplikar-0087ab1ba/?originalSubdomain=in)
+### **🫱🏼‍🫲🏼 Connect With Me**
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev&mailto:jpimplikar26@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/janhavi-pimplikar-0087ab1ba/?originalSubdomain=in)
+<br>
+
+### **📊 Stats**
+
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Janhavi-2001&theme=elegant" alt="GitHub Streak" /></a>
