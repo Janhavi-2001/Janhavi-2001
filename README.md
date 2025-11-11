@@ -13,7 +13,7 @@
 <br>
 
 ### **🛠️ Dev Skills** 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,spring,laravel,mysql,sqlite,tensorflow,git,postman&perline=20&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,spring,laravel,mysql,sqlite,tensorflow,git,postman,docker&perline=20&theme=dark)](https://skillicons.dev)
 <br>
 
 ### **✨ Fun Fact**
