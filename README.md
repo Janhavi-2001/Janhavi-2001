@@ -13,19 +13,14 @@
 <br>
 
 ### **🛠️ Dev Skills** 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,spring,laravel,mysql,sqlite,tensorflow,git,postman,docker&perline=20&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,spring,laravel,mysql,postgres,tensorflow,git,postman,docker&perline=20&theme=dark)](https://skillicons.dev)
 <br>
 
 ### **✨ Fun Fact**
-I'm learning Japanese and aiming for the JLPT N2.
-頑張りましょう！ :)
+I love to explore languages and ancient history!
 <br>
 
 ### **🫱🏼‍🫲🏼 Connect With Me**
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev&mailto:jpimplikar26@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/janhavi-pimplikar-0087ab1ba/?originalSubdomain=in)
 <br>
-
-### **📊 Stats**
-
-<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Janhavi-2001&theme=elegant" alt="GitHub Streak" /></a>
