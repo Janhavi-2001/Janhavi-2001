@@ -7,7 +7,7 @@
 
 🎓 I'm a software engineering graduate student at Arizona State University
 \
-👩🏽‍💻I'm currently developing my skills in React and Java full-stack development
+👩🏽‍💻 I'm currently developing my skills in React and Java full-stack development
 \
 🌐 I'm interested in software localization (l10n) and internationalization (i18n) techniques and frameworks
 <br>
